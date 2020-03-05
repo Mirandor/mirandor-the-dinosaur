@@ -87,6 +87,12 @@ img {
 .isstrong {
 
 }
+.quote {
+    opactiy: 0.0;
+}
+.bqcustom {
+    fill-opacity: 0.0;
+}
 
 .est {
     font-size: 16px;
